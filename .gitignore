@@ -9,7 +9,7 @@ __pycache__
 /tmp
 /model.ckpt
 /models/**/*
-/GFPGANv1.3.pth
+/GFPGANv1.4.pth
 /gfpgan/weights/*.pth
 /ui-config.json
 /outputs
